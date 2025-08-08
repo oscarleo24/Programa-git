@@ -1,1 +1,2 @@
-"Nombre: Oscar Chaparro A" echo "Correo: softwaretecnology2@gmail.com"  
+"Nombre: Oscar Chaparro A" 
+"Correo: softwaretecnology2@gmail.com"  
